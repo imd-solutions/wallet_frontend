@@ -1,0 +1,10 @@
+{
+  "extends": ["react-app", "plugin:@typescript-eslint/recommended"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "warn",
+    "prefer-const": "warn",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-explicit-any": "error"
+  }
+}

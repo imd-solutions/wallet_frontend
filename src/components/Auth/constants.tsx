@@ -1,0 +1,4 @@
+export const LOGIN = 'LOGIN';
+export const OTP = 'OTP';
+export const SOCIAL_REGISTRATION = 'SOCIAL_REGISTRATION';
+export const PROFILE_REGISTRATION = 'PROFILE_REGISTRATION';
